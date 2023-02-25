@@ -46,7 +46,6 @@ int main()
             
             if (q.size() == m)
             {
-                cout << q.top() << endl;
                 s.push_back(q.top());
                 q.pop();
             }
